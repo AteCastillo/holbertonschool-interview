@@ -8,6 +8,7 @@
  *
  * Return: EXIT_SUCCESS or EXIT_FAILURE
  */
+
 int main(int ac, char **av)
 {
     unsigned long n;
